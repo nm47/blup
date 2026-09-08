@@ -1,0 +1,15 @@
+# Local agent settings and editor history
+.claude/
+.agents/
+.codex/
+**/.history/
+
+# Application autosaves, locks, and per-user preferences
+*.FCBak
+*.FCStd[0-9]
+*.kicad_prl
+~*.lck
+
+# Python caches
+__pycache__/
+*.pyc
